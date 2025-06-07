@@ -14,6 +14,7 @@
 
 ![Screenshot](web/screenshot.png "Screenshot")
 
+<!-- Testing integration with jira -->
 
 <div align="center">
 	<a href="https://github.com/th-ch/youtube-music/releases/latest">
